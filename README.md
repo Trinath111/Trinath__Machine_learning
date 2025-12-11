@@ -59,7 +59,7 @@ The dataset is generated programmatically using scikit-learn; no external data f
 
 Clone the repository:
 
-git clone https://github.com/your-username/mlp-depth-width.git
+git clone https://github.com/Trinath111/Trinath__Machine_learning.git
 cd mlp-depth-width
 
 
